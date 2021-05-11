@@ -19,7 +19,7 @@
     "js-cookie": "^2.2.1",
     "leaflet": "^1.6.0",
     "leaflet-geosearch": "^2.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "next": "9.4.4",
     "nprogress": "^0.2.0",
     "postcss": "^7.0.28",
